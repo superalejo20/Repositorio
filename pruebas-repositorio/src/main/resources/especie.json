@@ -1,0 +1,18 @@
+{
+	"ESPECIE": [
+		{
+			"id": 1,
+			"lugar": "Salento",
+			"nombre": "Amarantus S",
+			"genero_id": 2,
+			"registro_id": 1
+		},
+		{
+			"id": 2,
+			"lugar": "Calarca",
+			"nombre": "Amarantus S",
+			"genero_id": 2,
+			"registro_id": 2
+		}
+	]
+}
